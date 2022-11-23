@@ -1,0 +1,34 @@
+eldadchidra
+201434727
+Eldad Chidra
+
+I discussed the exercise with: Kfir (פיילוט אינטרו).
+
+=============================
+=  README for ex7: Recursive =
+=============================
+
+
+==================
+=  Description: 
+Simple and advanced recursive functions.=
+==================
+
+
+======================
+=  Special Comments  =
+======================
+
+1. is_prime
+
+The main function = o(1)
+The helper function = o(n)
+Total running time from n-1 to 2 is o(n).
+
+2. print_no_repetition_sequences
+
+I don't know how to calculate it :(
+
+3. flood_fill
+
+The worst case = the function will fill the entire points. It means o(n*m)
